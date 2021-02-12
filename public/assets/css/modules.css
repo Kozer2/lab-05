@@ -283,11 +283,13 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				/* background-image: url("../../images/banner.jpg"); */
+                z-index: 1;
 			}
 
 			#main > section.two {
 				background-color: #f5fafa;
+                
 			}
 
 			#main > section.three {
@@ -297,4 +299,6 @@
 			#main > section.four {
 				background-color: #e8edec;
 			}
-
+#about{
+    font-family: "Audiowide", sans-serif
+}
