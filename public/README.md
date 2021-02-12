@@ -53,6 +53,14 @@ Then the portfolio contents should be displayed
   - You may decide how many files to include, but at the minimum should include  `base.css`, `layout.css`, and `modules.css`. However, think through the way you separate your CSS rules. For example, you may want several CSS files in a `modules` folder, if you feel that the code needs to be organized in that manner.
 
 ### Feature #2: Modify the contents
+Number and name of feature: Feature #2: Modify the contents
+Estimate of time needed to complete: 45mins
+
+Start time: 1500
+
+Finish time: 1511
+
+Actual time needed to complete: 11mins
 
 #### Why are we implementing this feature?
 

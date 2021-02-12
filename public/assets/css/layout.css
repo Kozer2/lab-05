@@ -1544,6 +1544,7 @@ h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
 
                 .row.gtr-200.gtr-uniform {
                     margin-top: -40px;
+
                 }
 
                     .row.gtr-200.gtr-uniform > * {
@@ -2122,3 +2123,4 @@ font-size: 0.8em;
             }
 
 }
+
